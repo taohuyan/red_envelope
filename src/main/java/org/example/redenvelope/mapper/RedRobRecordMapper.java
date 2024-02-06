@@ -1,7 +1,7 @@
 package org.example.redenvelope.mapper;
 
-import com.weikun.main.model.RedRobRecord;
-import com.weikun.main.model.RedRobRecordExample;
+import org.example.redenvelope.pojo.RedRobRecord;
+import org.example.redenvelope.pojo.RedRobRecordExample;
 import java.util.List;
 
 import org.apache.ibatis.annotations.*;

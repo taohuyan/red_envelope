@@ -1,7 +1,7 @@
 package org.example.redenvelope.mapper;
 
-import com.weikun.main.model.RedDetail;
-import com.weikun.main.model.RedDetailExample;
+import org.example.redenvelope.pojo.RedDetail;
+import org.example.redenvelope.pojo.RedDetailExample;
 import java.util.List;
 
 import org.apache.ibatis.annotations.*;

@@ -1,9 +1,9 @@
 package org.example.redenvelope.mapper;
 
-import com.weikun.main.model.RedRecord;
-import com.weikun.main.model.RedRecordExample.Criteria;
-import com.weikun.main.model.RedRecordExample.Criterion;
-import com.weikun.main.model.RedRecordExample;
+import org.example.redenvelope.pojo.RedRecord;
+import org.example.redenvelope.pojo.RedRecordExample.Criteria;
+import org.example.redenvelope.pojo.RedRecordExample.Criterion;
+import org.example.redenvelope.pojo.RedRecordExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;
