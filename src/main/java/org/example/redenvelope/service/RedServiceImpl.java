@@ -1,12 +1,12 @@
 package org.example.redenvelope.service;
 
-import com.weikun.main.mapper.RedDetailMapper;
-import com.weikun.main.mapper.RedRecordMapper;
-import com.weikun.main.mapper.RedRobRecordMapper;
-import com.weikun.main.model.RedDetail;
-import com.weikun.main.model.RedPacketDto;
-import com.weikun.main.model.RedRecord;
-import com.weikun.main.model.RedRobRecord;
+import org.example.redenvelope.mapper.RedDetailMapper;
+import org.example.redenvelope.mapper.RedRecordMapper;
+import org.example.redenvelope.mapper.RedRobRecordMapper;
+import org.example.redenvelope.pojo.RedDetail;
+import org.example.redenvelope.pojo.RedPacketDto;
+import org.example.redenvelope.pojo.RedRecord;
+import org.example.redenvelope.pojo.RedRobRecord;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
